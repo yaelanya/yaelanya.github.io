@@ -1,6 +1,6 @@
 # 邊土名 朝飛 - Asahi Hentona
-Mail: asahi.hentona[at]gmail.com
-GitHub: [@yaelanya](https://github.com/yaelanya)
+Mail: asahi.hentona[at]gmail.com  
+GitHub: [@yaelanya](https://github.com/yaelanya)  
 Facebook: [AsahiHentona](https://www.facebook.com/AsahiHentona)
 
 ## Education
@@ -25,20 +25,19 @@ Facebook: [AsahiHentona](https://www.facebook.com/AsahiHentona)
 - 2015うちな～ICTビジネスプラン発表会　IIA会長賞
 
 ## Activity
-- 2018.10.05-2019.02.15
+- 2018.10.05-2019.02.15  
 **国立研究開発法人理化学研究所革新知能統合研究センター 言語情報アクセス技術チーム（インターンシップ）**
     - Wikipediaからの化合物情報の抽出・構造化手法の開発
-- 2018.02.13-2018.02.23
+- 2018.02.13-2018.02.23  
 **Retty株式会社（インターンシップ）**
     - BIダッシュボードの開発
     - BigQuery と Google Data Studio を用いて開発した
-- 2017.05.25
+- 2017.05.25  
 **ウォンテッドリー株式会社（インターンシップ）**
     - Wantedly実データ分析100本ノック
     - BigQuery上に格納されたログデータの分析
-- 2015.08
+- 2015.08  
 **株式会社ABEJA（インターンシップ）**
     - 画像解析を用いた人物通過検知システムの開発
-- 2015.03
+- 2015.03  
 **KAKEHASHI Project 2015（外務省による北米地域との青少年交流プロジェクト）**
-    - チームで制作したアプリをアメリカにて発表
