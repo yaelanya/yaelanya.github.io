@@ -3,7 +3,7 @@ Mail: asahi.hentona[at]gmail.com
 GitHub: [@yaelanya](https://github.com/yaelanya)  
 Facebook: [AsahiHentona](https://www.facebook.com/AsahiHentona)
 
---
+---
 昔からデータを見ることが好きでした．高専時代は画像解析を用いたアプリの開発やレコメンドシステムの研究などを行ってきました．現在の主な研究タスクは特許解析で，特許情報を基にNLPや時系列分析等の手法を用いて企業の経営分析等を行っています．  
 
 ## Education
