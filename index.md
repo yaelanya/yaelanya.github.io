@@ -22,6 +22,9 @@ Facebook: [AsahiHentona](https://www.facebook.com/AsahiHentona)
 - **Asahi Hentona**, Hirofumi Nonaka, Kensei Nakai, Takeshi Sakumoto, Shotaro Kataoka, Elisa Claire Aleman Carreon, Hugo Alberto Mendoza España, Toru Hiraoka, and Masaharu Hirota. 2018. Community Detection and Growth Potential Prediction from Patent Citation Networks. The International Conference on Management of Digital EcoSystems (MEDES'18). ACM, Tokyo, Japan. [LINK](https://dl.acm.org/citation.cfm?id=3281396)
 - Kensei Nakai, Hirofumi Nonaka, **Asahi Hentona**, Yuki Kanai, Takeshi Sakumoto, Shotaro Kataoka, Elisa Claire Alemán Carreón, and Toru Hiraoka. 2018. Community Detection and Growth Potential Prediction Using the Stochastic Block Model and the Long Short-term Memory from Patent Citation Networks. International Conference on Industrial Engineering and Engineering Management (IEEM). IEEE, Bangkok, Thailand. [LINK](https://ieeexplore.ieee.org/abstract/document/8607487)
 
+### Journal
+- Elisa Claire Alemán Carreón, Hirofumi Nonaka, **Asahi Hentona**, Hirochika Yamashiro. 2019. Measuring the influence of mere exposure effect of TV commercial adverts on purchase behavior based on machine learning prediction models. Information Processing & Management, 56, 4, 1339-1355. [LINK](https://www.sciencedirect.com/science/article/abs/pii/S0306457318305028)
+
 ## Awards
 - 第26回全国高等専門学校プログラミングコンテスト　自由部門　敢闘賞
 - 第25回全国高等専門学校プログラミングコンテスト　自由部門　敢闘賞
