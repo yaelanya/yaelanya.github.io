@@ -31,9 +31,13 @@ Facebook: [AsahiHentona](https://www.facebook.com/AsahiHentona)
 - 2015うちな～ICTビジネスプラン発表会　IIA会長賞
 
 ## Activity
+- 2019.04-2019.10
+**理研AIP - 森羅:Wikipedia構造化プロジェクト2019 に参加** [LINK](http://liat-aip.sakura.ne.jp/%e6%a3%ae%e7%be%85/%e6%a3%ae%e7%be%85wikipedia%e6%a7%8b%e9%80%a0%e5%8c%96%e3%83%97%e3%83%ad%e3%82%b8%e3%82%a7%e3%82%af%e3%83%882019/)
 - 2018.10.05-2019.02.15  
 **国立研究開発法人理化学研究所革新知能統合研究センター 言語情報アクセス技術チーム（インターンシップ）**
     - Wikipediaからの化合物情報の抽出・構造化手法の開発
+- 2018.04-2018.10
+**理研AIP - 森羅:Wikipedia構造化プロジェクト2018 に参加** [LINK](http://liat-aip.sakura.ne.jp/%e6%a3%ae%e7%be%85/%e6%a3%ae%e7%be%85wikipedia%e6%a7%8b%e9%80%a0%e5%8c%96%e3%83%97%e3%83%ad%e3%82%b8%e3%82%a7%e3%82%af%e3%83%882018/)
 - 2018.02.13-2018.02.23  
 **Retty株式会社（インターンシップ）**
     - BIダッシュボードの開発
