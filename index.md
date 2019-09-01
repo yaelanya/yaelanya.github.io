@@ -1,10 +1,11 @@
 # 邊土名 朝飛 - Asahi Hentona
 Mail: asahi.hentona[at]gmail.com  
 GitHub: [@yaelanya](https://github.com/yaelanya)  
+Twitter: [@yaelanya_ml](https://twitter.com/yaelanya_ml)
 Facebook: [AsahiHentona](https://www.facebook.com/AsahiHentona)
 
 ---
-昔からデータを見ることが好きでした．高専時代は画像解析を用いたアプリの開発やレコメンドシステムの研究などを行ってきました．現在の主な研究タスクは特許解析で，特許情報を基にNLPや時系列分析等の手法を用いて企業の経営分析等を行っています．  
+昔からデータを見ることが好きでした．高専時代は画像解析を用いたアプリの開発やレコメンドシステムの研究などを行ってきました．現在はNLP等の手法を用いて特許情報を解析したりしています．
 
 ## Education
 - 沖縄工業高等専門学校　メディア情報工学科
@@ -14,7 +15,6 @@ Facebook: [AsahiHentona](https://www.facebook.com/AsahiHentona)
 ## Research
 - 特許解析
 - 自然言語処理
-- 時系列分析
 
 ## Publications
 ### Conference
@@ -26,13 +26,14 @@ Facebook: [AsahiHentona](https://www.facebook.com/AsahiHentona)
 - Elisa Claire Alemán Carreón, Hirofumi Nonaka, **Asahi Hentona**, Hirochika Yamashiro. 2019. Measuring the influence of mere exposure effect of TV commercial adverts on purchase behavior based on machine learning prediction models. Information Processing & Management, 56, 4, 1339-1355. [LINK](https://www.sciencedirect.com/science/article/abs/pii/S0306457318305028)
 
 ## Awards
-- 第26回全国高等専門学校プログラミングコンテスト　自由部門　敢闘賞
-- 第25回全国高等専門学校プログラミングコンテスト　自由部門　敢闘賞
-- 2015うちな～ICTビジネスプラン発表会　IIA会長賞
+- 2015うちな～ICTビジネスプラン発表会　IIA会長賞 （2015）
+- 第26回全国高等専門学校プログラミングコンテスト　自由部門　敢闘賞 （2015）
+- 第25回全国高等専門学校プログラミングコンテスト　自由部門　敢闘賞 （2014）
 
 ## Activity
 - 2019.08.01-2019.8.30  
-**株式会社サイバーエージェント（インターン）**
+**株式会社サイバーエージェント（インターンシップ）**
+    - チャットボットの回答性能を向上させる手法の提案・検証
 
 - 2019.07.27  
 **『TensorFlow User Group Niigata \#1』にて発表**
@@ -51,7 +52,7 @@ Facebook: [AsahiHentona](https://www.facebook.com/AsahiHentona)
 - 2018.02.13-2018.02.23  
 **Retty株式会社（インターンシップ）**
     - BIダッシュボードの開発
-    - BigQuery と Google Data Studio を用いて開発した
+    - BigQuery と Google Data Studio を用いて開発
 
 - 2017.05.25  
 **ウォンテッドリー株式会社（インターンシップ）**
