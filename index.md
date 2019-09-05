@@ -1,8 +1,9 @@
 # 邊土名 朝飛 - Asahi Hentona
-Mail: asahi.hentona[at]gmail.com
-GitHub: [@yaelanya](https://github.com/yaelanya)
-Twitter: [@yaelanya_ml](https://twitter.com/yaelanya_ml)
-Facebook: [AsahiHentona](https://www.facebook.com/AsahiHentona)
+Mail: asahi.hentona[at]gmail.com  
+GitHub: [@yaelanya](https://github.com/yaelanya)  
+Twitter: [@yaelanya_ml](https://twitter.com/yaelanya_ml)  
+Facebook: [AsahiHentona](https://www.facebook.com/AsahiHentona)  
+
 ---
 昔からデータを見ることが好きでした．高専時代は画像解析を用いたアプリの開発やレコメンドシステムの研究などを行ってきました．現在はNLP等の手法を用いて特許情報を解析したりしています．
 
