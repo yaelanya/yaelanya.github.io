@@ -1,7 +1,10 @@
 # 邊土名 朝飛 - Asahi Hentona
-Mail: asahi.hentona[at]gmail.com  
-GitHub: [@yaelanya](https://github.com/yaelanya)  
+Mail: asahi.hentona[at]gmail.com
+
+GitHub: [@yaelanya](https://github.com/yaelanya)
+
 Twitter: [@yaelanya_ml](https://twitter.com/yaelanya_ml)
+
 Facebook: [AsahiHentona](https://www.facebook.com/AsahiHentona)
 
 ---
@@ -26,7 +29,8 @@ Facebook: [AsahiHentona](https://www.facebook.com/AsahiHentona)
 - Elisa Claire Alemán Carreón, Hirofumi Nonaka, **Asahi Hentona**, Hirochika Yamashiro. 2019. Measuring the influence of mere exposure effect of TV commercial adverts on purchase behavior based on machine learning prediction models. Information Processing & Management, 56, 4, 1339-1355. [LINK](https://www.sciencedirect.com/science/article/abs/pii/S0306457318305028)
 
 ## Awards
-- 2015うちな～ICTビジネスプラン発表会　IIA会長賞 （2015）
+- 電子情報通信学会信越支部学生奨励賞 （2019）
+- うちな～ICTビジネスプラン発表会　IIA会長賞 （2015）
 - 第26回全国高等専門学校プログラミングコンテスト　自由部門　敢闘賞 （2015）
 - 第25回全国高等専門学校プログラミングコンテスト　自由部門　敢闘賞 （2014）
 
