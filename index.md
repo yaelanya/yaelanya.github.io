@@ -5,7 +5,8 @@ Twitter: [@yaelanya_ml](https://twitter.com/yaelanya_ml)
 Facebook: [AsahiHentona](https://www.facebook.com/AsahiHentona)  
 
 ---
-昔からデータを見ることが好きでした．高専時代は画像解析を用いたアプリの開発やレコメンドシステムの研究などを行ってきました．現在はNLP等の手法を用いて特許情報を解析したりしています．
+昔から歴史や国際情勢が好きで，いつしかデータから社会現象を解き明かすことが将来の夢になりました．
+大学では主に企業経営における戦略立案に役立つ特許解析手法を開発する研究を行っています．
 
 ## Education
 - 沖縄工業高等専門学校　メディア情報工学科
