@@ -9,9 +9,9 @@ Facebook: [AsahiHentona](https://www.facebook.com/AsahiHentona)
 大学では主に企業経営における戦略立案に役立つ特許解析手法を開発する研究を行っています．
 
 ## Education
-- 沖縄工業高等専門学校　メディア情報工学科
-- 長岡技術科学大学　情報・経営システム工学課程
-- 長岡技術科学大学大学院　情報・経営システム工学専攻  
+- 長岡技術科学大学大学院　情報・経営システム工学専攻 (2019.04-)
+- 長岡技術科学大学　情報・経営システム工学課程 (2017.04-2019.03)
+- 沖縄工業高等専門学校　メディア情報工学科 (2012.04-2017.03)
 
 ## Research
 - 特許解析
@@ -19,9 +19,13 @@ Facebook: [AsahiHentona](https://www.facebook.com/AsahiHentona)
 
 ## Publications
 ### Conference
-- **邊土名朝飛**, 野中尋史, 小林暁雄, 関根聡. 2019. 外部知識源を使用した Wikipedia からの化合物情報抽出. 言語処理学会第25回年次大会． [PDF](http://www.anlp.jp/proceedings/annual_meeting/2019/pdf_dir/B4-8.pdf)
+査読あり
 - **Asahi Hentona**, Hirofumi Nonaka, Kensei Nakai, Takeshi Sakumoto, Shotaro Kataoka, Elisa Claire Aleman Carreon, Hugo Alberto Mendoza España, Toru Hiraoka, and Masaharu Hirota. 2018. Community Detection and Growth Potential Prediction from Patent Citation Networks. The International Conference on Management of Digital EcoSystems (MEDES'18). ACM, Tokyo, Japan. [LINK](https://dl.acm.org/citation.cfm?id=3281396)
 - Kensei Nakai, Hirofumi Nonaka, **Asahi Hentona**, Yuki Kanai, Takeshi Sakumoto, Shotaro Kataoka, Elisa Claire Alemán Carreón, and Toru Hiraoka. 2018. Community Detection and Growth Potential Prediction Using the Stochastic Block Model and the Long Short-term Memory from Patent Citation Networks. International Conference on Industrial Engineering and Engineering Management (IEEM). IEEE, Bangkok, Thailand. [LINK](https://ieeexplore.ieee.org/abstract/document/8607487)
+
+査読なし
+- **邊土名朝飛**, 野中尋史, 小林暁雄, 関根聡. 2019. 外部知識源を使用した Wikipedia からの化合物情報抽出. 言語処理学会第25回年次大会. [PDF](http://www.anlp.jp/proceedings/annual_meeting/2019/pdf_dir/B4-8.pdf)
+- 范敏, 野中尋史, Alemán Carreón Elisa Claire, 中井堅誠, **邊土名朝飛**. 2020. WEB情報に基づく訪日中国人観光客の味覚に関する嗜好性分析. 第12回データ工学と情報マネジメントに関するフォーラム(DEIM2020).
 
 ### Journal
 - Elisa Claire Alemán Carreón, Hirofumi Nonaka, **Asahi Hentona**, Hirochika Yamashiro. 2019. Measuring the influence of mere exposure effect of TV commercial adverts on purchase behavior based on machine learning prediction models. Information Processing & Management, 56, 4, 1339-1355. [LINK](https://www.sciencedirect.com/science/article/abs/pii/S0306457318305028)
@@ -54,7 +58,7 @@ Facebook: [AsahiHentona](https://www.facebook.com/AsahiHentona)
 - 2018.02.13-2018.02.23  
 **Retty株式会社（インターンシップ）**
     - BIダッシュボードの開発
-    - BigQuery と Google Data Studio を用いて開発
+    - BigQuery と Google Data Studio を用いて開発した
 
 - 2017.05.25  
 **ウォンテッドリー株式会社（インターンシップ）**
