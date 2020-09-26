@@ -5,9 +5,6 @@ Twitter: [@yaelanya_ml](https://twitter.com/yaelanya_ml)
 Facebook: [AsahiHentona](https://www.facebook.com/AsahiHentona)  
 
 ---
-昔から歴史や国際情勢が好きで，いつしかデータから社会現象を解き明かすことが将来の夢になりました．
-大学では主に企業経営における戦略立案に役立つ特許解析手法を開発する研究を行っています．
-
 ## Education
 - 長岡技術科学大学大学院　情報・経営システム工学専攻 (2019.04-)
 - 長岡技術科学大学　情報・経営システム工学課程 (2017.04-2019.03)
@@ -27,6 +24,7 @@ Facebook: [AsahiHentona](https://www.facebook.com/AsahiHentona)
 - Kensei Nakai, Hirofumi Nonaka, **Asahi Hentona**, Yuki Kanai, Takeshi Sakumoto, Shotaro Kataoka, Elisa Claire Alemán Carreón, and Toru Hiraoka. 2018. Community Detection and Growth Potential Prediction Using the Stochastic Block Model and the Long Short-term Memory from Patent Citation Networks. International Conference on Industrial Engineering and Engineering Management (IEEM). IEEE, Bangkok, Thailand. [LINK](https://ieeexplore.ieee.org/abstract/document/8607487)
 
 査読なし
+- 作本猛, **邊土名朝飛**, 山本雄太, 野中尋史. 2019. 実験テキストデータ構造化・情報抽出フレームワーク開発のための有機化学特許を対象とした基礎的検討. NLP若手の会(YANS) 第15回シンポジウム.
 - 山本雄太, 野中尋史, **邊土名朝飛**, 中井堅誠, 作本猛, 片岡翔太郎, 平岡透. 2020. 技術コミュニティの成長性を加味した特許価値評価手法の開発. 2020年度人工知能学会全国大会. [Link](https://confit.atlas.jp/guide/event-img/jsai2020/4K2-GS-3-05/public/pdf?type=in)
 - 范敏, 野中尋史, Alemán Carreón Elisa Claire, 中井堅誠, **邊土名朝飛**. 2020. WEB情報に基づく訪日中国人観光客の味覚に関する嗜好性分析. 第12回データ工学と情報マネジメントに関するフォーラム(DEIM2020).
 - **邊土名朝飛**, 野中尋史, 小林暁雄, 関根聡. 2019. 外部知識源を使用した Wikipedia からの化合物情報抽出. 言語処理学会第25回年次大会. [Link](http://www.anlp.jp/proceedings/annual_meeting/2019/pdf_dir/B4-8.pdf)
@@ -38,6 +36,11 @@ Facebook: [AsahiHentona](https://www.facebook.com/AsahiHentona)
 - 第25回全国高等専門学校プログラミングコンテスト　自由部門　敢闘賞 （2014）
 
 ## Activity
+- 2020.09.26  
+**『株式会社サポーターズ』主催 [技育祭](https://talent.supporterz.jp/geekten/2020/) 出展**
+   - 制作物：弱視者用情報収集支援アプリ『Low vision service』 [GitHub](https://github.com/fish-and-skiing-life/Low_vision_support)
+   - AI/機械学習/データ分析部門 敢闘賞（3位） 受賞
+
 - 2019.08.01-2019.8.30  
 **株式会社サイバーエージェント（インターンシップ）**
     - チャットボットの回答性能を向上させる手法の提案・検証
@@ -59,7 +62,6 @@ Facebook: [AsahiHentona](https://www.facebook.com/AsahiHentona)
 - 2018.02.13-2018.02.23  
 **Retty株式会社（インターンシップ）**
     - BIダッシュボードの開発
-    - BigQuery と Google Data Studio を用いて開発した
 
 - 2017.05.25  
 **ウォンテッドリー株式会社（インターンシップ）**
