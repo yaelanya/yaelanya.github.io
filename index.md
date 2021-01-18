@@ -36,6 +36,12 @@ Facebook: [AsahiHentona](https://www.facebook.com/AsahiHentona)
 - 第25回全国高等専門学校プログラミングコンテスト　自由部門　敢闘賞 （2014）
 
 ## Activity
+- 2020.11.06   
+**新潟日報に弱視者用情報収集支援アプリ『[Low vision service](https://github.com/fish-and-skiing-life/Low_vision_support)』が掲載されました [LINK](https://www.niigata-nippo.co.jp/news/local/20201106579502.html)**
+
+- 2020.10.23  
+**日刊工業新聞に弱視者用情報収集支援アプリ『[Low vision service](https://github.com/fish-and-skiing-life/Low_vision_support)』が掲載されました [LINK](https://www.nikkan.co.jp/articles/view/575775)**
+
 - 2020.09.26  
 **『株式会社サポーターズ』主催 [技育祭](https://talent.supporterz.jp/geekten/2020/) 出展**
    - 制作物：弱視者用情報収集支援アプリ『Low vision service』 [GitHub](https://github.com/fish-and-skiing-life/Low_vision_support)
