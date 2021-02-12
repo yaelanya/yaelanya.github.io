@@ -24,9 +24,11 @@ Facebook: [AsahiHentona](https://www.facebook.com/AsahiHentona)
 - Kensei Nakai, Hirofumi Nonaka, **Asahi Hentona**, Yuki Kanai, Takeshi Sakumoto, Shotaro Kataoka, Elisa Claire Alemán Carreón, and Toru Hiraoka. 2018. Community Detection and Growth Potential Prediction Using the Stochastic Block Model and the Long Short-term Memory from Patent Citation Networks. International Conference on Industrial Engineering and Engineering Management (IEEM). IEEE, Bangkok, Thailand. [LINK](https://ieeexplore.ieee.org/abstract/document/8607487)
 
 査読なし
-- 作本猛, **邊土名朝飛**, 山本雄太, 野中尋史. 2019. 実験テキストデータ構造化・情報抽出フレームワーク開発のための有機化学特許を対象とした基礎的検討. NLP若手の会(YANS) 第15回シンポジウム.
+- **邊土名朝飛**, 野中尋史, 河野誠也, 谷川英和. 2021. 大域的・局所的エントロピーに基づいた特許文書中からの効果述語項構造の自動抽出. 言語処理学会第27回年次大会.
+- 作本猛, **邊土名朝飛**, 山本雄太, 森楓, 野中尋史. 2021. 特許文書を対象とした化学実験構造化のための基礎的検討. 言語処理学会第27回年次大会.
 - 山本雄太, 野中尋史, **邊土名朝飛**, 中井堅誠, 作本猛, 片岡翔太郎, 平岡透. 2020. 技術コミュニティの成長性を加味した特許価値評価手法の開発. 2020年度人工知能学会全国大会. [Link](https://confit.atlas.jp/guide/event-img/jsai2020/4K2-GS-3-05/public/pdf?type=in)
 - 范敏, 野中尋史, Alemán Carreón Elisa Claire, 中井堅誠, **邊土名朝飛**. 2020. WEB情報に基づく訪日中国人観光客の味覚に関する嗜好性分析. 第12回データ工学と情報マネジメントに関するフォーラム(DEIM2020).
+- 作本猛, **邊土名朝飛**, 山本雄太, 野中尋史. 2019. 実験テキストデータ構造化・情報抽出フレームワーク開発のための有機化学特許を対象とした基礎的検討. NLP若手の会(YANS) 第15回シンポジウム.
 - **邊土名朝飛**, 野中尋史, 小林暁雄, 関根聡. 2019. 外部知識源を使用した Wikipedia からの化合物情報抽出. 言語処理学会第25回年次大会. [Link](http://www.anlp.jp/proceedings/annual_meeting/2019/pdf_dir/B4-8.pdf)
 
 ## Awards
