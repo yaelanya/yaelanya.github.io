@@ -1,4 +1,7 @@
 # 邊土名 朝飛 - Asahi Hentona
+
+[Google scholar](https://scholar.google.com/citations?user=qP59Pa8AAAAJ)
+
 [GitHub](https://github.com/yaelanya), [X(Twitter)](https://twitter.com/yaelanya_ml), [Bluesky](https://bsky.app/profile/yaelanya.bsky.social), [Facebook](https://www.facebook.com/AsahiHentona)
 
 ---
